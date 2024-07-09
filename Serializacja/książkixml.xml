@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfKsiążka xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Książka>
+    <Tytuł>Harry Potter i Kamień Filozoficzny</Tytuł>
+    <Autor>J.K. Rowling</Autor>
+    <RokWydania>1997</RokWydania>
+    <Gatunek>Fantasy</Gatunek>
+    <Ocena>4.5</Ocena>
+  </Książka>
+  <Książka>
+    <Tytuł>Władca Pierścieni: Drużyna Pierścienia</Tytuł>
+    <Autor>J.R.R. Tolkien</Autor>
+    <RokWydania>1954</RokWydania>
+    <Gatunek>Fantasy</Gatunek>
+    <Ocena>4.9</Ocena>
+  </Książka>
+  <Książka>
+    <Tytuł>1984</Tytuł>
+    <Autor>George Orwell</Autor>
+    <RokWydania>1949</RokWydania>
+    <Gatunek>Dystopia</Gatunek>
+    <Ocena>4.8</Ocena>
+  </Książka>
+</ArrayOfKsiążka>
